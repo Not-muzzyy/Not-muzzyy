@@ -1,4 +1,4 @@
-# Hi there, I’m Mohammed Muzamil C 👋🛡️
+# I’m Mohammed Muzamil C 👋🛡️
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4E8EF7&center=true&vCenter=true&width=600&lines=Final+Year+BCA+Student;Cybersecurity+%26+ML+Enthusiast;SIEM+Builder+%7C+Hackathon+Participant;Always+Learning%2C+Always+Building+🚀" alt="Typing SVG" />
