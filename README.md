@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-here">
+  <a href="https://linkedin.com/in/muzzammilc7">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://mini-siem-ai-bm5cxha4bpddes55s5n9xk.streamlit.app/">
