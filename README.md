@@ -4,13 +4,13 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Not-muzzyy&label=PROFILE+VIEWS&color=DC143C&style=flat-square&labelColor=1a1a1a)](https://github.com/Not-muzzyy)
 
-![Streak Stats](https://streak-stats.demolab.com?user=Not-muzzyy&theme=dark&hide_border=true&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&background=0D1117&sideNums=DC143C)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Not-muzzyy&theme=dark&hide_border=true&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&background=0D1117&sideNums=DC143C)
 
 </div>
 
 ---
 
-## 💻 **TECH STACK**
+## <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:8px;vertical-align:middle"><rect x="2" y="3" width="20" height="18" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 13L11 16L16 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> **TECH STACK**
 
 <div align="center">
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 🔒 **CYBERSECURITY ARSENAL**
+## <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:8px;vertical-align:middle"><path d="M12 2L4 6V12C4 18.6 12 22 12 22C12 22 20 18.6 20 12V6L12 2Z" stroke="currentColor" stroke-width="2" fill="none"/><path d="M9 12L11 14L15 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> **CYBERSECURITY ARSENAL**
 
 <div align="center">
 
@@ -60,16 +60,16 @@
 ![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logoColor=white)
 
 **Certifications & Learning**
-- 🎓 **Google Cloud**: Cybersecurity Professional
-- 🎓 **Anthropic**: AI Fluency, Claude 101, Claude Code
-- 🎓 **HuggingFace**: AI Agents
-- 🎯 **In Progress**: CEH, CompTIA Security+, OSCP
+- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><path d="M12 15L3.5 18.5V9L12 5.5L20.5 9V18.5L12 22L3.5 18.5" stroke="currentColor" stroke-width="2" fill="none"/><path d="M12 5.5V15" stroke="currentColor" stroke-width="2"/></svg> **Google Cloud**: Cybersecurity Professional
+- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><path d="M12 15L3.5 18.5V9L12 5.5L20.5 9V18.5L12 22L3.5 18.5" stroke="currentColor" stroke-width="2" fill="none"/><path d="M12 5.5V15" stroke="currentColor" stroke-width="2"/></svg> **Anthropic**: AI Fluency, Claude 101, Claude Code
+- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><path d="M12 15L3.5 18.5V9L12 5.5L20.5 9V18.5L12 22L3.5 18.5" stroke="currentColor" stroke-width="2" fill="none"/><path d="M12 5.5V15" stroke="currentColor" stroke-width="2"/></svg> **HuggingFace**: AI Agents
+- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2" fill="none"/><path d="M12 7V12L15 15" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg> **In Progress**: CEH, CompTIA Security+, OSCP
 
 </div>
 
 ---
 
-## 📊 **GITHUB METRICS**
+## <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:8px;vertical-align:middle"><rect x="3" y="3" width="18" height="18" rx="2" stroke="currentColor" stroke-width="2" fill="none"/><path d="M7 12H17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M7 8H17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M7 16H13" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg> **GITHUB METRICS**
 
 <div align="center">
 
@@ -81,7 +81,7 @@
 
 ---
 
-## 🎯 **CURRENT FOCUS**
+## <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:8px;vertical-align:middle"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2" fill="none"/><path d="M12 7V12L15 15" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg> **CURRENT FOCUS**
 
 <div align="center">
 
@@ -89,21 +89,21 @@
 
 | Project | Focus | Status |
 |---------|-------|--------|
-| **Phishing Detector Advanced** | Multilingual security threat detection | 97% Accuracy ✅ |
+| **Phishing Detector Advanced** | Multilingual security threat detection | 97% Accuracy ✔ |
 | **ResumeAI** | ATS-optimized resume analyzer | Production 🚀 |
-| **Mini-SIEM AI** | Security incident event management | Development 🔧 |
+| **Mini-SIEM AI** | Security incident event management | Development ⚙ |
 
 ### **Next Targets**
-- 🔐 **SOC Analyst / Security Engineer** roles
-- 📚 **MCA/MSc** in Cybersecurity
-- 🛠️ Open-source security tool contributions
-- 🌐 Building production-grade threat detection systems
+- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><path d="M12 2L4 6V12C4 18.6 12 22 12 22C12 22 20 18.6 20 12V6L12 2Z" stroke="currentColor" stroke-width="2" fill="none"/><path d="M9 12L11 14L15 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> **SOC Analyst / Security Engineer** roles
+- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><path d="M12 15L3.5 18.5V9L12 5.5L20.5 9V18.5L12 22L3.5 18.5" stroke="currentColor" stroke-width="2" fill="none"/><path d="M12 5.5V15" stroke="currentColor" stroke-width="2"/></svg> **MCA/MSc** in Cybersecurity
+- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><path d="M12 2C6.48 2 2 6.48 2 12S6.48 22 12 22S22 17.52 22 12C22 6.48 17.52 2 12 2Z" stroke="currentColor" stroke-width="2" fill="none"/><path d="M10 16.17L6.83 13L5.41 14.41L10 19L19 10L17.59 8.59L10 16.17Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg> Open-source security tool contributions
+- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><polyline points="3 17 9 11 13 15 21 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><polyline points="21 7 21 3 17 3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> Building production-grade threat detection systems
 
 </div>
 
 ---
 
-## 🚀 **ACTIVITY GRAPH**
+## <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:8px;vertical-align:middle"><polyline points="3 17 9 11 13 15 21 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><polyline points="21 7 21 3 17 3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> **ACTIVITY GRAPH**
 
 <div align="center">
 
@@ -113,17 +113,17 @@
 
 ---
 
-## 📱 **CONNECT**
+## <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:8px;vertical-align:middle"><path d="M11 4H4C2.9 4 2 4.9 2 6V20C2 21.1 2.9 22 4 22H18C19.1 22 20 21.1 20 20V13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 12H20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M14 4V10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg> **CONNECT**
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muzzammilc7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Not-muzzyy)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.muzzzuuu._)
 [![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
 
 ---
 
-<sub>🔴 Dark Red Aesthetic | Built with Code & Coffee | Always Learning 🎯</sub>
+<sub><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><circle cx="12" cy="12" r="10" fill="currentColor"/></svg> Dark Red Aesthetic | Built with Code & Coffee | Always Learning 🎯</sub>
 
 </div>
