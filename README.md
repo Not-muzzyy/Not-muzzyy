@@ -1,129 +1,260 @@
-<div align="center">
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a0a0a,100:8b0000&height=200&section=header&text=Muzammil%20C&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Systems%20%7C%20Python&descAlignY=60&descSize=22&animation=fadeIn)](https://github.com/Not-muzzyy)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=3500&pause=800&color=DC143C&center=true&vCenter=true&width=800&lines=MUZZAMMIL;CYBERSECURITY+%26+AI+BUILDER;BREAKING+SYSTEMS%2C+BUILDING+SOLUTIONS;TryHackMe+%7C+HackTheBox;Always+Learning+Always+Breaking)
+<p align="center">
+  <a href="https://www.linkedin.com/in/muzzammilc7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mini-siem-ai-bm5cxha4bpddes55s5n9xk.streamlit.app/"><img src="https://img.shields.io/badge/Mini--SIEM_Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
+  <a href="https://github.com/Not-muzzyy"><img src="https://img.shields.io/badge/GitHub-Not--muzzyy-181717?style=for-the-badge&logo=github"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Not-muzzyy&style=for-the-badge&color=8b0000&label=PROFILE+VIEWS"/>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Not-muzzyy&label=PROFILE+VIEWS&color=DC143C&style=flat-square&labelColor=1a1a1a)](https://github.com/Not-muzzyy)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Not-muzzyy&theme=dark&hide_border=true&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&background=0D1117&sideNums=DC143C)
-
-</div>
-
----
-
-## <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:8px;vertical-align:middle"><rect x="2" y="3" width="20" height="18" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 13L11 16L16 9" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> **TECH STACK**
-
-<div align="center">
-
-**Languages & Core**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-
-**AI & Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-**AI Frameworks & APIs**  
-![Streamlit](https://img.shields.io/badge/Streamlit-DC143C?style=for-the-badge&logo=streamlit&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_AI-DC143C?style=for-the-badge&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logoColor=white)
-
-**Tools & Infrastructure**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C87?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=4E8EF7&center=true&vCenter=true&width=700&lines=Hey+I'm+Muzammil;I+build+things+that+actually+work.;Cybersecurity+%2B+AI+%2B+Vibes.;From+Ballari+to+the+Internet." />
+</p>
 
 ---
 
-## <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:8px;vertical-align:middle"><path d="M12 2L4 6V12C4 18.6 12 22 12 22C12 22 20 18.6 20 12V6L12 2Z" stroke="currentColor" stroke-width="2" fill="none"/><path d="M9 12L11 14L15 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> **CYBERSECURITY ARSENAL**
+<!-- ABOUT -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
 
-<div align="center">
+<h3><img src="https://img.icons8.com/fluency/24/user.png"/> &nbsp;About</h3>
 
-![TryHackMe](https://img.shields.io/badge/TryHackMe-DC143C?style=for-the-badge&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-111827?style=for-the-badge&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-0693E3?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-DC143C?style=for-the-badge&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge&logoColor=white)
+```python
+class Muzamil:
 
-**Certifications & Learning**
-- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><path d="M12 15L3.5 18.5V9L12 5.5L20.5 9V18.5L12 22L3.5 18.5" stroke="currentColor" stroke-width="2" fill="none"/><path d="M12 5.5V15" stroke="currentColor" stroke-width="2"/></svg> **Google Cloud**: Cybersecurity Professional
-- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><path d="M12 15L3.5 18.5V9L12 5.5L20.5 9V18.5L12 22L3.5 18.5" stroke="currentColor" stroke-width="2" fill="none"/><path d="M12 5.5V15" stroke="currentColor" stroke-width="2"/></svg> **Anthropic**: AI Fluency, Claude 101, Claude Code
-- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><path d="M12 15L3.5 18.5V9L12 5.5L20.5 9V18.5L12 22L3.5 18.5" stroke="currentColor" stroke-width="2" fill="none"/><path d="M12 5.5V15" stroke="currentColor" stroke-width="2"/></svg> **HuggingFace**: AI Agents
-- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2" fill="none"/><path d="M12 7V12L15 15" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg> **In Progress**: CEH, CompTIA Security+, OSCP
+    name       = "Mohammed Muzamil C"
+    location   = "Ballari, Karnataka, India"
+    education  = "BCA Final Year @ Nandi Institute of Management & Science (VSKUB)"
+    focus      = ["Cybersecurity", "Machine Learning", "AI Systems"]
+    building   = ["EduSathi — RAG-based AI study companion", "ResumeAI — ATS resume checker"]
+    hackathons = ["Chakravyuha 3.0 @ BITM Bellary", "TodoList AI — First Hackathon"]
+    certs      = ["Google Cloud Cybersecurity", "HuggingFace AI Agents", "Anthropic x3"]
+    vibe       = "I write code that detects attacks, explains itself, and generates PDFs from raw bytes."
+    goal       = "SOC Analyst -> CEH -> OSCP. One cert at a time."
+```
 
-</div>
+<br>
+
+<!-- METRICS CARDS — auto-generated by GitHub Actions, see .github/workflows/metrics.yml -->
+
+<!-- STATS + LANGUAGES -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+
+<h3><img src="https://img.icons8.com/fluency/24/combo-chart.png"/> &nbsp;Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Not-muzzyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f78166&text_color=c9d1d9&rank_icon=github" height="170"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not-muzzyy&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Not-muzzyy&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=f78166&fire=FF4B4B&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9"/>
+</p>
+
+<br>
+
+<!-- METRICS INFOGRAPHIC — generated by GitHub Action -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+
+<h3><img src="https://img.icons8.com/fluency/24/heat-map.png"/> &nbsp;Metrics</h3>
+
+<p align="center">
+  <img src="github-metrics.svg" alt="Metrics" width="100%"/>
+</p>
+
+<br>
+
+<!-- PROJECTS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+
+<h3><img src="https://img.icons8.com/fluency/24/source-code.png"/> &nbsp;What I've Built</h3>
+
+<table>
+<tr>
+<td width="50%">
+
+<h4><img src="https://img.icons8.com/fluency/18/shield.png"/> Mini-SIEM AI</h4>
+
+Full security operations platform. ML attack classifier, SHAP explainability, LLM threat reasoning via Groq, auto PDF incident reports.
+
+![](https://img.shields.io/badge/6_attack_types-0d1117?style=flat-square&labelColor=8b0000&color=1a1a2e)
+![](https://img.shields.io/badge/risk_score_0–100-0d1117?style=flat-square&labelColor=1565C0&color=1a1a2e)
+![](https://img.shields.io/badge/AI_reports-0d1117?style=flat-square&labelColor=6A0DAD&color=1a1a2e)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Not-muzzyy/mini-siem-ai)
+[![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://mini-siem-ai-bm5cxha4bpddes55s5n9xk.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-6A0DAD?style=flat)
+![Groq](https://img.shields.io/badge/Groq-blueviolet?style=flat)
+
+</td>
+<td width="50%">
+
+<h4><img src="https://img.icons8.com/fluency/18/fishing-hook.png"/> Phishing Detector</h4>
+
+3-layer ML pipeline — text analysis + URL features + meta-model. 0.97 confidence. No hardcoded rules. 2,378 LinkedIn impressions on first post.
+
+![](https://img.shields.io/badge/confidence_0.97-0d1117?style=flat-square&labelColor=2e7d32&color=1a1a2e)
+![](https://img.shields.io/badge/3_layer_ensemble-0d1117?style=flat-square&labelColor=F7931E&color=1a1a2e)
+![](https://img.shields.io/badge/zero_hardcoded_rules-0d1117?style=flat-square&labelColor=1565C0&color=1a1a2e)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Not-muzzyy/phishing-detector-advanced)
+[![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://phishing-detector-advanced.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-2e7d32?style=flat)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h4><img src="https://img.icons8.com/fluency/18/resume.png"/> ResumeAI</h4>
+
+Upload resume → ATS score, gap analysis, fix suggestions, rebuilt DOCX. Powered by Groq Llama 3.3 70B. Real recruiter logic, not vibes.
+
+![](https://img.shields.io/badge/ATS_scoring-0d1117?style=flat-square&labelColor=00838f&color=1a1a2e)
+![](https://img.shields.io/badge/gap_detection-0d1117?style=flat-square&labelColor=6A0DAD&color=1a1a2e)
+![](https://img.shields.io/badge/DOCX_download-0d1117?style=flat-square&labelColor=1565C0&color=1a1a2e)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Not-muzzyy/resumeai)
+[![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://resumeai-muzzyy.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLM-blueviolet?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+</td>
+<td width="50%">
+
+<h4><img src="https://img.icons8.com/fluency/18/graduation-cap.png"/> EduSathi</h4>
+
+RAG pipeline on VSKUB question papers. PDF parsing, MCQ generation, knowledge gap detection, topic summaries. Built for Indian university students.
+
+![](https://img.shields.io/badge/RAG_pipeline-0d1117?style=flat-square&labelColor=F7931E&color=1a1a2e)
+![](https://img.shields.io/badge/MCQ_engine-0d1117?style=flat-square&labelColor=8b0000&color=1a1a2e)
+![](https://img.shields.io/badge/VSKUB_papers-0d1117?style=flat-square&labelColor=2e7d32&color=1a1a2e)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Not-muzzyy/edusathi)
+[![Live](https://img.shields.io/badge/Live-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://edusathi-muzzyy.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-F7931E?style=flat)
+![Groq](https://img.shields.io/badge/Groq-blueviolet?style=flat)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h4><img src="https://img.icons8.com/fluency/18/world-map.png"/> Pollution Intelligence Grid</h4>
+
+AI environmental risk forecasting — spatial spread modeling, 7-day forecasting, anomaly detection, interactive geo map. Built in 24 hours at Chakravyuha 3.0.
+
+![](https://img.shields.io/badge/24hr_hackathon-0d1117?style=flat-square&labelColor=8b0000&color=1a1a2e)
+![](https://img.shields.io/badge/geo_mapping-0d1117?style=flat-square&labelColor=2e7d32&color=1a1a2e)
+![](https://img.shields.io/badge/7_day_forecast-0d1117?style=flat-square&labelColor=1565C0&color=1a1a2e)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Not-muzzyy/virtual-pollution-intelligence-grid)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-2e7d32?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat)
+
+</td>
+<td width="50%">
+
+<h4><img src="https://img.icons8.com/fluency/18/checked-checkbox.png"/> TodoList AI</h4>
+
+AI-powered task manager. Python backend + HTML/CSS/JS frontend. Smart task suggestions. First hackathon, full stack, shipped on time.
+
+![](https://img.shields.io/badge/first_hackathon-0d1117?style=flat-square&labelColor=6A0DAD&color=1a1a2e)
+![](https://img.shields.io/badge/full_stack-0d1117?style=flat-square&labelColor=F7931E&color=1a1a2e)
+![](https://img.shields.io/badge/shipped_on_time-0d1117?style=flat-square&labelColor=2e7d32&color=1a1a2e)
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Not-muzzyy/todolist-ai)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- STACK -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+
+<h3><img src="https://img.icons8.com/fluency/24/maintenance.png"/> &nbsp;Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,html,css,js,r,git,linux,vscode,github&theme=dark&perline=10"/>
+</p>
+
+<br>
+
+<!-- CERTIFICATIONS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+
+<h3><img src="https://img.icons8.com/fluency/24/certificate.png"/> &nbsp;Certifications</h3>
+
+<p align="center">
+
+![Google](https://img.shields.io/badge/Google_Cloud_Cybersecurity-Dec_2025-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/AI_Agents_Fundamentals-Mar_2026-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Anthropic](https://img.shields.io/badge/AI_Fluency-Mar_2026-6A0DAD?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_101-Mar_2026-8b0000?style=for-the-badge&logo=anthropic&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_Code_In_Action-Mar_2026-1565C0?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</p>
+
+<br>
+
+<!-- TARGETS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+
+<h3><img src="https://img.icons8.com/fluency/24/goal.png"/> &nbsp;Next Targets</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-8b0000?style=flat-square&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OSCP-Long_Game-1a1a2e?style=flat-square&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_Source-Contribution-2e7d32?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOC_Analyst-Role-1565C0?style=flat-square&logo=elastic&logoColor=white"/>
+</p>
+
+<br>
+
+<!-- ACTIVITY -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+
+<h3><img src="https://img.icons8.com/fluency/24/activity-feed.png"/> &nbsp;Activity</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Not-muzzyy&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=8b0000&point=f78166&area=true&area_color=8b0000"/>
+</p>
+
+<br>
+
+<!-- TROPHIES -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+
+<h3><img src="https://img.icons8.com/fluency/24/trophy.png"/> &nbsp;Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Not-muzzyy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+</p>
 
 ---
 
-## <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:8px;vertical-align:middle"><rect x="3" y="3" width="18" height="18" rx="2" stroke="currentColor" stroke-width="2" fill="none"/><path d="M7 12H17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M7 8H17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M7 16H13" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg> **GITHUB METRICS**
+<p align="center">
+  <i>Building things from Ballari that run on the internet.</i>
+  &nbsp;<img src="https://img.icons8.com/fluency/18/globe.png"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-8b0000?style=flat&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-1565C0?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Systems-6A0DAD?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vibe_Coder-4e8ef7?style=flat&logo=visualstudiocode&logoColor=white"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Not-muzzyy&show_icons=true&theme=dark&hide_border=true&title_color=DC143C&icon_color=DC143C&bg_color=0D1117&text_color=E6EAEA&border_color=DC143C)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Not-muzzyy&layout=compact&theme=dark&hide_border=true&title_color=DC143C&bg_color=0D1117&text_color=E6EAEA&border_color=DC143C)
-
-</div>
-
----
-
-## <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:8px;vertical-align:middle"><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2" fill="none"/><path d="M12 7V12L15 15" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg> **CURRENT FOCUS**
-
-<div align="center">
-
-### **Active Projects**
-
-| Project | Focus | Status |
-|---------|-------|--------|
-| **Phishing Detector Advanced** | Multilingual security threat detection | 97% Accuracy ✔ |
-| **ResumeAI** | ATS-optimized resume analyzer | Production 🚀 |
-| **Mini-SIEM AI** | Security incident event management | Development ⚙ |
-
-### **Next Targets**
-- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><path d="M12 2L4 6V12C4 18.6 12 22 12 22C12 22 20 18.6 20 12V6L12 2Z" stroke="currentColor" stroke-width="2" fill="none"/><path d="M9 12L11 14L15 10" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> **SOC Analyst / Security Engineer** roles
-- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><path d="M12 15L3.5 18.5V9L12 5.5L20.5 9V18.5L12 22L3.5 18.5" stroke="currentColor" stroke-width="2" fill="none"/><path d="M12 5.5V15" stroke="currentColor" stroke-width="2"/></svg> **MCA/MSc** in Cybersecurity
-- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><path d="M12 2C6.48 2 2 6.48 2 12S6.48 22 12 22S22 17.52 22 12C22 6.48 17.52 2 12 2Z" stroke="currentColor" stroke-width="2" fill="none"/><path d="M10 16.17L6.83 13L5.41 14.41L10 19L19 10L17.59 8.59L10 16.17Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg> Open-source security tool contributions
-- <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><polyline points="3 17 9 11 13 15 21 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><polyline points="21 7 21 3 17 3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> Building production-grade threat detection systems
-
-</div>
-
----
-
-## <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:8px;vertical-align:middle"><polyline points="3 17 9 11 13 15 21 7" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><polyline points="21 7 21 3 17 3" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> **ACTIVITY GRAPH**
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Not-muzzyy&theme=react-dark&bg_color=0D1117&color=DC143C&line=DC143C&point=DC143C&hide_border=true)
-
-</div>
-
----
-
-## <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:8px;vertical-align:middle"><path d="M11 4H4C2.9 4 2 4.9 2 6V20C2 21.1 2.9 22 4 22H18C19.1 22 20 21.1 20 20V13" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 12H20" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M14 4V10" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg> **CONNECT**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muzzammilc7)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Not-muzzyy)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.muzzzuuu._)
-[![Email](https://img.shields.io/badge/Email-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
-
----
-
-<sub><svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" style="display:inline;margin-right:6px;vertical-align:text-bottom"><circle cx="12" cy="12" r="10" fill="currentColor"/></svg> Dark Red Aesthetic | Built with Code & Coffee | Always Learning 🎯</sub>
-
-</div>
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:1a0a0a,100:0d1117&height=120&section=footer&animation=fadeIn)](https://github.com/Not-muzzyy)
