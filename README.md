@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=4E8EF7&center=true&vCenter=true&width=700&lines=Hey+I'm+Muzammil;I+build+things+that+actually+work.;Cybersecurity+%2B+AI+%2B+Vibes.;From+Ballari+to+the+Internet." />
 </p>
-
+ 
 ---
 
 <!-- ABOUT -->
