@@ -1,229 +1,265 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a0a0a,60:1a0000,100:8b0000&height=230&section=header&text=⟦%20Muzammil%20C%20⟧&fontSize=68&fontColor=ff4444&fontAlignY=35&desc=%F0%9F%94%90%20Offensive%20Security%20%E2%80%A2%20AI%20Red%20Team%20%E2%80%A2%20Threat%20Intelligence&descAlignY=58&descSize=20&descColor=888888&animation=twinkling)](https://github.com/Not-muzzyy)
+<!-- ANIME STYLED README - Mohammed Muzamil C -->
+<!-- ══════════════════════════════════════════ -->
+<!-- Paste this entire file into your GitHub profile README.md -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%24+whoami+%E2%86%92+Muzammil+%7C+Cybersecurity+Researcher+%7C+AI+Engineer;%24+cat+%2Fetc%2Fmission+%E2%86%92+Detect.+Defend.+Disrupt." />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muzzammilc7/"><img src="https://img.shields.io/badge/-%E2%94%82_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://mini-siem-ai-bm5cxha4bpddes55s5n9xk.streamlit.app/"><img src="https://img.shields.io/badge/-%E2%94%82_Mini--SIEM_Live-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/></a>
-  <a href="https://github.com/Not-muzzyy"><img src="https://img.shields.io/badge/-%E2%94%82_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Not-muzzyy&style=for-the-badge&color=FF0000&label=%F0%9F%91%81+WATCHERS"/>
-</p>
+<!-- HERO BANNER -->
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0015,30:1a0030,60:2d0050,100:8b00ff&height=260&section=header&text=⟦%20MUZAMMIL%20C%20⟧&fontSize=72&fontColor=bf7fff&fontAlignY=35&desc=『%20Cybersecurity%20Researcher%20・%20AI%20Engineer%20・%20Threat%20Hunter%20』&descAlignY=58&descSize=18&descColor=9b59b6&animation=twinkling)](https://github.com/Not-muzzyy)
+
+</div>
 
 ---
 
-<!-- ═══════════════════════════════ THREAT PROFILE ═══════════════════════════════ -->
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,12,20,20,26&height=2&section=header"/>
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=1000&color=BF7FFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=%E3%80%8C+SYSTEM+BOOT+SEQUENCE+INITIATED+%E3%80%8D;%E2%96%B6+Target%3A+SOC+Analyst+%E2%86%92+CEH+%E2%86%92+OSCP+%E2%80%94+OBJECTIVE+LOCKED" />
 
-<h2><img src="https://img.icons8.com/color/28/hacking.png"/> &nbsp;⟦ THREAT PROFILE ⟧</h2>
+</div>
 
-```js
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   ╔══════════════════════════════════════════════════════════════════════╗   │
-│   ║  CLASSIFICATION: OFFENSIVE SECURITY RESEARCHER                      ║   │
-│   ║  THREAT LEVEL:   ██████████░░░░░░  [ELEVATED]                       ║   │
-│   ╚══════════════════════════════════════════════════════════════════════╝   │
-│                                                                              │
-│   > OPERATOR_ID  : Mohammed Muzamil C                                        │
-│   > CODENAME     : Not-muzzyy                                                │
-│   > BASE_STATION : Ballari, Karnataka, India                                 │
-│   > AFFILIATION  : BCA Final Year @ Nandi Institute (VSKUB)                  │
-│   > CLEARANCE    : [Google Cloud Cybersecurity] [HuggingFace] [Anthropic x3] │
-│                                                                              │
-│   > PRIMARY_OBJ  : [ Cybersecurity, Threat Detection, ML-Powered Defense ]   │
-│   > SECONDARY_OBJ: [ AI Red Teaming, LLM Security, Exploit Analysis ]       │
-│   > STATUS       : ACTIVE ● OPERATIONAL                                      │
-│                                                                              │
-│   > ACTIVE_OPS   : EduSathi — RAG-based AI study companion                   │
-│                  : ResumeAI — ATS resume checker with LLM                    │
-│                                                                              │
-│   > ENGAGEMENT   : Chakravyuha 3.0 @ BITM Bellary                           │
-│                  : TodoList AI — First Hackathon [CLEARED]                    │
-│                                                                              │
-│   > MISSION_BRIEF: "I write code that hunts threats, explains attacks,       │
-│                     and generates incident reports from raw bytes."           │
-│                                                                              │
-│   > CAREER_VECTOR: SOC Analyst → CEH → OSCP                                 │
-│                    One certification at a time. No shortcuts.                 │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+<br>
+
+<!-- SOCIAL BADGES -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/muzzammilc7/">
+    <img src="https://img.shields.io/badge/-%E3%80%8E_LinkedIn%E3%80%8F-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0015"/>
+  </a>
+  <a href="https://mini-siem-ai-bm5cxha4bpddes55s5n9xk.streamlit.app/">
+    <img src="https://img.shields.io/badge/-%E3%80%8E_Mini--SIEM%E3%80%8F-8b00ff?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=0d0015"/>
+  </a>
+  <a href="https://github.com/Not-muzzyy">
+    <img src="https://img.shields.io/badge/-%E3%80%8E_GitHub%E3%80%8F-181717?style=for-the-badge&logo=github&logoColor=bf7fff&labelColor=0d0015"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Not-muzzyy&style=for-the-badge&color=8b00ff&label=%E3%80%96+VISITORS+%E3%80%97"/>
+</p>
+
+<br>
+
+---
+
+<!-- ═══════════════ OPERATOR FILE ═══════════════ -->
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/%E3%80%96%E2%9D%96%20OPERATOR%20FILE%20%E2%9D%96%E3%80%97-1a0030?style=for-the-badge&labelColor=0d0015&color=8b00ff"/>
+</h2>
+
+```ansi
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                            ║
+║   ░░░  CLASSIFICATION: S-RANK  ░░  THREAT_LEVEL: ELEVATED  ░░░            ║
+║                                                                            ║
+║   ╭─────────────────────────────────────────────────────────────────╮     ║
+║   │                                                                 │     ║
+║   │   OPERATOR_ID   ▸  Mohammed Muzamil C                          │     ║
+║   │   CODENAME      ▸  Not-muzzyy                                  │     ║
+║   │   BASE          ▸  Ballari, Karnataka — 『 India 』             │     ║
+║   │   AFFILIATION   ▸  BCA Final Year ✦ NIMS × VSKUB               │     ║
+║   │   CLEARANCES    ▸  [Google Cloud ✦ HuggingFace ✦ Anthropic×3]  │     ║
+║   │                                                                 │     ║
+║   │   PRIMARY_OBJ   ▸  Cybersecurity · Threat Detection · AI        │     ║
+║   │   SECONDARY_OBJ ▸  AI Red Teaming · LLM Security               │     ║
+║   │   STATUS        ▸  ● ACTIVE  ◉ OPERATIONAL                     │     ║
+║   │                                                                 │     ║
+║   │   CAREER_ARC    ▸  SOC Analyst  →  CEH  →  OSCP                │     ║
+║   │                    「 One certification at a time. 」            │     ║
+║   │                                                                 │     ║
+║   ╰─────────────────────────────────────────────────────────────────╯     ║
+║                                                                            ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
-<!-- ═══════════════════════════════ STATS ═══════════════════════════════ -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,12,20,20,26&height=2&section=header"/>
+<!-- ═══════════════ INTEL DASHBOARD ═══════════════ -->
 
-<h2><img src="https://img.icons8.com/color/28/combo-chart--v1.png"/> &nbsp;⟦ INTEL DASHBOARD ⟧</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/%E3%80%96%E2%AC%A1%20INTEL%20DASHBOARD%20%E2%AC%A1%E3%80%97-1a0030?style=for-the-badge&labelColor=0d0015&color=8b00ff"/>
+</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Not-muzzyy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF4444&icon_color=FF0000&text_color=aaaaaa&ring_color=FF0000&rank_icon=github" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Not-muzzyy&show_icons=true&theme=midnight-purple&hide_border=false&border_color=8b00ff&bg_color=0d0015&title_color=bf7fff&icon_color=8b00ff&text_color=c9a0ff&ring_color=8b00ff&rank_icon=percentile" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not-muzzyy&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF4444&text_color=aaaaaa&langs_count=6" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not-muzzyy&layout=donut&theme=midnight-purple&hide_border=false&border_color=8b00ff&bg_color=0d0015&title_color=bf7fff&text_color=c9a0ff&langs_count=6" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Not-muzzyy&theme=dark&hide_border=true&background=0d1117&stroke=FF000050&ring=FF0000&fire=FF4444&currStreakLabel=FF4444&sideLabels=FF4444&dates=555555&currStreakNum=ffffff&sideNums=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Not-muzzyy&theme=midnight-purple&hide_border=false&background=0d0015&stroke=8b00ff50&ring=8b00ff&fire=bf7fff&currStreakLabel=bf7fff&sideLabels=bf7fff&dates=7a5fa0&currStreakNum=ffffff&sideNums=ffffff&border=8b00ff"/>
 </p>
 
 <br>
 
-<!-- ═══════════════════════════════ METRICS ═══════════════════════════════ -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,12,20,20,26&height=2&section=header"/>
+<!-- ═══════════════ NETWORK TELEMETRY ═══════════════ -->
 
-<h2><img src="https://img.icons8.com/color/28/heat-map.png"/> &nbsp;⟦ NETWORK TELEMETRY ⟧</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/%E3%80%96%E2%9C%A6%20NETWORK%20TELEMETRY%20%E2%9C%A6%E3%80%97-1a0030?style=for-the-badge&labelColor=0d0015&color=8b00ff"/>
+</h2>
 
 <p align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%"/>
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 </p>
 
 <br>
 
-<!-- ═══════════════════════════════ ARSENAL ═══════════════════════════════ -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,12,20,20,26&height=2&section=header"/>
+<!-- ═══════════════ DEPLOYED OPERATIONS ═══════════════ -->
 
-<h2><img src="https://img.icons8.com/color/28/source-code.png"/> &nbsp;⟦ DEPLOYED OPERATIONS ⟧</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/%E3%80%96%E2%9A%94%20DEPLOYED%20OPERATIONS%20%E2%9A%94%E3%80%97-1a0030?style=for-the-badge&labelColor=0d0015&color=8b00ff"/>
+</h2>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Mini-SIEM AI
-> `STATUS: DEPLOYED` `THREAT_LEVEL: CRITICAL`
+<h3 align="center">🛡️ Mini-SIEM AI</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-DEPLOYED-8b00ff?style=flat-square&labelColor=0d0015"/>
+  <img src="https://img.shields.io/badge/THREAT_LVL-CRITICAL-bf0000?style=flat-square&labelColor=0d0015"/>
+</p>
 
-Full security operations platform. ML-powered attack classifier with **6 attack type detection**, SHAP explainability engine, LLM threat reasoning via Groq, auto-generated PDF incident reports.
+> ML-powered security ops platform. **6 attack types**, SHAP explainability, Groq LLM threat reasoning, auto-generated PDF incident reports.
 
 ```
-┌─ CAPABILITIES ─────────────────────────┐
-│ ► 6 Attack Types  │ ► Risk Score 0-100 │
-│ ► SHAP Analysis   │ ► AI PDF Reports   │
-│ ► Groq LLM Engine │ ► Real-time Alerts │
-└────────────────────────────────────────┘
+╭─ CAPABILITIES ──────────────────────╮
+│ ▸ 6 Attack Types  ▸ Risk 0–100      │
+│ ▸ SHAP Analysis   ▸ AI PDF Reports  │
+│ ▸ Groq LLM Engine ▸ Real-time Alerts│
+╰─────────────────────────────────────╯
 ```
 
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Not-muzzyy/mini-siem-ai)
-[![Live](https://img.shields.io/badge/LIVE_DEPLOY-FF0000?style=flat-square&logo=streamlit&logoColor=white)](https://mini-siem-ai-bm5cxha4bpddes55s5n9xk.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![SHAP](https://img.shields.io/badge/SHAP-0d1117?style=flat-square&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-0d1117?style=flat-square&logoColor=white)
+[![Repo](https://img.shields.io/badge/SOURCE-0d0015?style=flat-square&logo=github&logoColor=bf7fff&label=〔)](https://github.com/Not-muzzyy/mini-siem-ai)
+[![Live](https://img.shields.io/badge/LIVE-8b00ff?style=flat-square&logo=streamlit&logoColor=white)](https://mini-siem-ai-bm5cxha4bpddes55s5n9xk.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-0d0015?style=flat-square&logo=python&logoColor=3776AB)
+![Groq](https://img.shields.io/badge/Groq-0d0015?style=flat-square&logoColor=bf7fff)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎣 Phishing Detector
-> `STATUS: DEPLOYED` `CONFIDENCE: 0.97`
+<h3 align="center">🎣 Phishing Detector</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-DEPLOYED-8b00ff?style=flat-square&labelColor=0d0015"/>
+  <img src="https://img.shields.io/badge/CONFIDENCE-97%25-00ff88?style=flat-square&labelColor=0d0015"/>
+</p>
 
-3-layer ML pipeline — text analysis + URL feature extraction + meta-model ensemble. **Zero hardcoded rules.** 2,378 LinkedIn impressions on launch post.
+> 3-layer ML pipeline — NLP + URL inspection + meta-ensemble. **Zero hardcoded rules.** 2,378 LinkedIn impressions on launch.
 
 ```
-┌─ THREAT METRICS ───────────────────────┐
-│ ► Confidence: 97%  │ ► 3-Layer Stack   │
-│ ► NLP Analysis     │ ► URL Inspection  │
-│ ► Zero Hardcoded   │ ► 2.3K Impressions│
-└────────────────────────────────────────┘
+╭─ THREAT METRICS ────────────────────╮
+│ ▸ Confidence: 97%  ▸ 3-Layer Stack  │
+│ ▸ NLP Analysis     ▸ URL Inspection │
+│ ▸ Zero Hardcoded   ▸ 2.3K Impressions│
+╰─────────────────────────────────────╯
 ```
 
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Not-muzzyy/phishing-detector-advanced)
-[![Live](https://img.shields.io/badge/LIVE_DEPLOY-FF0000?style=flat-square&logo=streamlit&logoColor=white)](https://phishing-detector-advanced.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![ML](https://img.shields.io/badge/Scikit--Learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![NLP](https://img.shields.io/badge/NLP-0d1117?style=flat-square&logoColor=white)
+[![Repo](https://img.shields.io/badge/SOURCE-0d0015?style=flat-square&logo=github&logoColor=bf7fff)](https://github.com/Not-muzzyy/phishing-detector-advanced)
+[![Live](https://img.shields.io/badge/LIVE-8b00ff?style=flat-square&logo=streamlit&logoColor=white)](https://phishing-detector-advanced.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-0d0015?style=flat-square&logo=python&logoColor=3776AB)
+![ML](https://img.shields.io/badge/Scikit--Learn-0d0015?style=flat-square&logo=scikit-learn&logoColor=F7931E)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📄 ResumeAI
-> `STATUS: DEPLOYED` `ENGINE: Llama 3.3 70B`
+<h3 align="center">📄 ResumeAI</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-DEPLOYED-8b00ff?style=flat-square&labelColor=0d0015"/>
+  <img src="https://img.shields.io/badge/ENGINE-LLaMA_3.3_70B-bf7fff?style=flat-square&labelColor=0d0015"/>
+</p>
 
-Upload resume → ATS score, gap analysis, fix suggestions, rebuilt DOCX. Powered by Groq Llama 3.3 70B. Real recruiter logic, not vibes.
+> Upload resume → ATS score + gap analysis + fix suggestions + rebuilt DOCX. Powered by Groq LLaMA 3.3 70B. Real recruiter logic.
 
 ```
-┌─ CAPABILITIES ─────────────────────────┐
-│ ► ATS Scoring     │ ► Gap Detection    │
-│ ► Fix Suggestions │ ► DOCX Rebuild     │
-│ ► Groq LLM 70B   │ ► Recruiter Logic  │
-└────────────────────────────────────────┘
+╭─ CAPABILITIES ──────────────────────╮
+│ ▸ ATS Scoring      ▸ Gap Detection  │
+│ ▸ Fix Suggestions  ▸ DOCX Rebuild   │
+│ ▸ Groq LLM 70B    ▸ Recruiter Logic │
+╰─────────────────────────────────────╯
 ```
 
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Not-muzzyy/resumeai)
-[![Live](https://img.shields.io/badge/LIVE_DEPLOY-FF0000?style=flat-square&logo=streamlit&logoColor=white)](https://resumeai-muzzyy.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Groq](https://img.shields.io/badge/Groq_LLM-0d1117?style=flat-square&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
+[![Repo](https://img.shields.io/badge/SOURCE-0d0015?style=flat-square&logo=github&logoColor=bf7fff)](https://github.com/Not-muzzyy/resumeai)
+[![Live](https://img.shields.io/badge/LIVE-8b00ff?style=flat-square&logo=streamlit&logoColor=white)](https://resumeai-muzzyy.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-0d0015?style=flat-square&logo=python&logoColor=3776AB)
+![Groq](https://img.shields.io/badge/Groq-0d0015?style=flat-square&logoColor=bf7fff)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 EduSathi
-> `STATUS: DEPLOYED` `TYPE: RAG Pipeline`
+<h3 align="center">🎓 EduSathi</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-DEPLOYED-8b00ff?style=flat-square&labelColor=0d0015"/>
+  <img src="https://img.shields.io/badge/TYPE-RAG_Pipeline-00aaff?style=flat-square&labelColor=0d0015"/>
+</p>
 
-RAG pipeline on VSKUB question papers. PDF parsing, MCQ generation, knowledge gap detection, topic summaries. Built for Indian university students.
+> RAG on VSKUB question papers. PDF parsing + MCQ generation + knowledge gap detection. Built for Indian university students.
 
 ```
-┌─ CAPABILITIES ─────────────────────────┐
-│ ► RAG Pipeline    │ ► MCQ Engine       │
-│ ► PDF Parsing     │ ► Gap Detection    │
-│ ► VSKUB Papers   │ ► Topic Summaries  │
-└────────────────────────────────────────┘
+╭─ CAPABILITIES ──────────────────────╮
+│ ▸ RAG Pipeline    ▸ MCQ Engine      │
+│ ▸ PDF Parsing     ▸ Gap Detection   │
+│ ▸ VSKUB Papers   ▸ Topic Summaries  │
+╰─────────────────────────────────────╯
 ```
 
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Not-muzzyy/edusathi)
-[![Live](https://img.shields.io/badge/LIVE_DEPLOY-FF0000?style=flat-square&logo=streamlit&logoColor=white)](https://edusathi-muzzyy.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-0d1117?style=flat-square&logoColor=white)
+[![Repo](https://img.shields.io/badge/SOURCE-0d0015?style=flat-square&logo=github&logoColor=bf7fff)](https://github.com/Not-muzzyy/edusathi)
+[![Live](https://img.shields.io/badge/LIVE-8b00ff?style=flat-square&logo=streamlit&logoColor=white)](https://edusathi-muzzyy.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-0d0015?style=flat-square&logo=python&logoColor=3776AB)
+![RAG](https://img.shields.io/badge/RAG-0d0015?style=flat-square&logoColor=bf7fff)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Pollution Intelligence Grid
-> `STATUS: COMPLETE` `BUILD_TIME: 24hrs`
+<h3 align="center">🌐 Pollution Intelligence Grid</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-COMPLETE-00ff88?style=flat-square&labelColor=0d0015"/>
+  <img src="https://img.shields.io/badge/BUILD__TIME-24hrs-ffd700?style=flat-square&labelColor=0d0015"/>
+</p>
 
-AI environmental risk forecasting — spatial spread modeling, 7-day forecasting, anomaly detection, interactive geo map. Built in 24 hours at Chakravyuha 3.0.
+> AI environmental risk forecasting — spatial spread modeling, 7-day forecasting, anomaly detection, interactive geo map. Built in 24hrs at Chakravyuha 3.0.
 
 ```
-┌─ CAPABILITIES ─────────────────────────┐
-│ ► 24hr Hackathon  │ ► Geo Mapping      │
-│ ► 7-Day Forecast  │ ► Anomaly Detect   │
-│ ► Spatial Model   │ ► Interactive Map   │
-└────────────────────────────────────────┘
+╭─ CAPABILITIES ──────────────────────╮
+│ ▸ 24hr Hackathon  ▸ Geo Mapping     │
+│ ▸ 7-Day Forecast  ▸ Anomaly Detect  │
+│ ▸ Spatial Model   ▸ Interactive Map │
+╰─────────────────────────────────────╯
 ```
 
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Not-muzzyy/virtual-pollution-intelligence-grid)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![Folium](https://img.shields.io/badge/Folium-0d1117?style=flat-square&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-0d1117?style=flat-square&logo=plotly&logoColor=white)
+[![Repo](https://img.shields.io/badge/SOURCE-0d0015?style=flat-square&logo=github&logoColor=bf7fff)](https://github.com/Not-muzzyy/virtual-pollution-intelligence-grid)
+![Python](https://img.shields.io/badge/Python-0d0015?style=flat-square&logo=python&logoColor=3776AB)
+![Folium](https://img.shields.io/badge/Folium-0d0015?style=flat-square&logoColor=bf7fff)
+![Plotly](https://img.shields.io/badge/Plotly-0d0015?style=flat-square&logo=plotly&logoColor=bf7fff)
 
 </td>
 <td width="50%" valign="top">
 
-### ✅ TodoList AI
-> `STATUS: COMPLETE` `MILESTONE: First Hackathon`
+<h3 align="center">🔍 ScamLens</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-ffd700?style=flat-square&labelColor=0d0015"/>
+  <img src="https://img.shields.io/badge/PLATFORM-WhatsApp_·_Telegram-25D366?style=flat-square&labelColor=0d0015"/>
+</p>
 
-AI-powered task manager. Python backend + HTML/CSS/JS frontend. Smart task suggestions. First hackathon, full stack, shipped on time.
+> AI-powered scam detection for WhatsApp & Telegram. Multilingual (English, Hindi, Hinglish), voice authenticity checks, one-click report integration, PDF evidence cards.
 
 ```
-┌─ CAPABILITIES ─────────────────────────┐
-│ ► Full Stack      │ ► AI Suggestions   │
-│ ► Python Backend  │ ► JS Frontend      │
-│ ► First Hackathon │ ► Shipped On Time  │
-└────────────────────────────────────────┘
+╭─ CAPABILITIES ──────────────────────╮
+│ ▸ LLaMA 3 (Groq)  ▸ Whisper API    │
+│ ▸ OCR (Tesseract) ▸ PDF Evidence   │
+│ ▸ Multilingual    ▸ Voice Checks   │
+╰─────────────────────────────────────╯
 ```
 
-[![Repo](https://img.shields.io/badge/SOURCE-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Not-muzzyy/todolist-ai)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![JS](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0d0015?style=flat-square&logo=python&logoColor=3776AB)
+![Flask](https://img.shields.io/badge/Flask-0d0015?style=flat-square&logo=flask&logoColor=bf7fff)
+![Groq](https://img.shields.io/badge/Groq_LLaMA3-0d0015?style=flat-square&logoColor=bf7fff)
 
 </td>
 </tr>
@@ -231,22 +267,25 @@ AI-powered task manager. Python backend + HTML/CSS/JS frontend. Smart task sugge
 
 <br>
 
-<!-- ═══════════════════════════════ ARSENAL/STACK ═══════════════════════════════ -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,12,20,20,26&height=2&section=header"/>
+<!-- ═══════════════ ARSENAL ═══════════════ -->
 
-<h2><img src="https://img.icons8.com/color/28/administrative-tools.png"/> &nbsp;⟦ ARSENAL ⟧</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/%E3%80%96%E2%9A%99%20ARSENAL%20%E2%9A%99%E3%80%97-1a0030?style=for-the-badge&labelColor=0d0015&color=8b00ff"/>
+</h2>
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   ⟦ LANGUAGES ⟧       Python • JavaScript • R • HTML/CSS • SQL             │
-│   ⟦ ML / AI ⟧         Scikit-Learn • SHAP • NLP • RAG • LangChain         │
-│   ⟦ LLM PROVIDERS ⟧   Groq (Llama 3.3 70B) • Anthropic • HuggingFace     │
-│   ⟦ SECURITY ⟧        SIEM • Threat Detection • Phishing Analysis          │
-│   ⟦ PLATFORMS ⟧       Linux • Git • GitHub Actions • VS Code • Streamlit   │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                        ║
+║   〖 LANGUAGES 〗    Python  ·  JavaScript  ·  R  ·  HTML/CSS  ·  SQL  ║
+║   〖 ML / AI 〗      Scikit-Learn  ·  SHAP  ·  NLP  ·  RAG  ·  LangChain ║
+║   〖 LLM STACK 〗    Groq (LLaMA 3.3 70B)  ·  Anthropic  ·  HuggingFace ║
+║   〖 SECURITY 〗     SIEM  ·  Threat Detection  ·  Phishing Analysis    ║
+║   〖 PLATFORMS 〗    Linux  ·  Git  ·  GitHub Actions  ·  Streamlit      ║
+║   〖 WORKFLOW 〗     n8n  ·  VS Code  ·  Ollama  ·  Docker               ║
+║                                                                        ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 <p align="center">
@@ -255,93 +294,127 @@ AI-powered task manager. Python backend + HTML/CSS/JS frontend. Smart task sugge
 
 <br>
 
-<!-- ═══════════════════════════════ CERTIFICATIONS ═══════════════════════════════ -->
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,12,20,20,26&height=2&section=header"/>
+<!-- ═══════════════ SECURITY CLEARANCES ═══════════════ -->
 
-<h2><img src="https://img.icons8.com/color/28/certificate.png"/> &nbsp;⟦ SECURITY CLEARANCES ⟧</h2>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/%E3%80%96%F0%9F%94%90%20SECURITY%20CLEARANCES%20%F0%9F%94%90%E3%80%97-1a0030?style=for-the-badge&labelColor=0d0015&color=8b00ff"/>
+</h2>
 
 <p align="center">
 
-![Google](https://img.shields.io/badge/🔐_Google_Cloud_Cybersecurity-Dec_2025-FF0000?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0d1117)
-![HuggingFace](https://img.shields.io/badge/🤖_AI_Agents_Fundamentals-Mar_2026-FF0000?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0d1117)
-![Anthropic](https://img.shields.io/badge/🧠_AI_Fluency-Mar_2026-FF0000?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117)
-![Anthropic](https://img.shields.io/badge/⚡_Claude_101-Mar_2026-FF0000?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117)
-![Anthropic](https://img.shields.io/badge/💻_Claude_Code_In_Action-Mar_2026-FF0000?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d1117)
+![Google](https://img.shields.io/badge/🔐_Google_Cloud_Cybersecurity-Dec_2025-8b00ff?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=0d0015)
+![HuggingFace](https://img.shields.io/badge/🤖_AI_Agents_Fundamentals-Mar_2026-8b00ff?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0d0015)
+![Anthropic](https://img.shields.io/badge/🧠_AI_Fluency-Mar_2026-8b00ff?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d0015)
+![Anthropic](https://img.shields.io/badge/⚡_Claude_101-Mar_2026-8b00ff?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d0015)
+![Anthropic](https://img.shields.io/badge/💻_Claude_Code_In_Action-Mar_2026-8b00ff?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=0d0015)
 
 </p>
 
 <br>
-
-<!-- ═══════════════════════════════ TARGETS ═══════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,12,20,20,26&height=2&section=header"/>
-
-<h2><img src="https://img.icons8.com/color/28/bullseye.png"/> &nbsp;⟦ ACTIVE OBJECTIVES ⟧</h2>
-
-```
- ┌─────────────────────────────────────────────────────────────────────┐
- │                                                                     │
- │   [▓▓▓▓▓▓▓▓░░]  80%  ──  CEH — Certified Ethical Hacker            │
- │   [▓▓▓▓░░░░░░]  40%  ──  CompTIA Security+                         │
- │   [▓░░░░░░░░░]  10%  ──  OSCP — The Long Game                      │
- │   [▓▓▓░░░░░░░]  30%  ──  Open Source Contributions                 │
- │   [▓▓▓▓▓▓░░░░]  60%  ──  SOC Analyst Role                          │
- │                                                                     │
- └─────────────────────────────────────────────────────────────────────┘
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-FF0000?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/OSCP-Offensive_Security-FF0000?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/Open_Source-Contribution-FF0000?style=flat-square&logo=github&logoColor=white&labelColor=0d1117"/>
-  <img src="https://img.shields.io/badge/SOC_Analyst-Target_Role-FF0000?style=flat-square&logo=elastic&logoColor=white&labelColor=0d1117"/>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════ ACTIVITY ═══════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,12,20,20,26&height=2&section=header"/>
-
-<h2><img src="https://img.icons8.com/color/28/activity-feed.png"/> &nbsp;⟦ SIGNAL TRAFFIC ⟧</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Not-muzzyy&theme=high-contrast&hide_border=true&bg_color=0d1117&color=FF4444&line=FF0000&point=ffffff&area=true&area_color=FF000030"/>
-</p>
-
-<br>
-
-<!-- ═══════════════════════════════ TROPHIES ═══════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,12,20,20,26&height=2&section=header"/>
-
-<h2><img src="https://img.icons8.com/color/28/trophy.png"/> &nbsp;⟦ KILL CHAIN ACHIEVEMENTS ⟧</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Not-muzzyy&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-</p>
 
 ---
 
+<!-- ═══════════════ ACTIVE OBJECTIVES ═══════════════ -->
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/%E3%80%96%F0%9F%8E%AF%20ACTIVE%20OBJECTIVES%20%F0%9F%8E%AF%E3%80%97-1a0030?style=for-the-badge&labelColor=0d0015&color=8b00ff"/>
+</h2>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║   [▓▓▓▓▓▓▓▓░░]  80%  ━━  CEH — Certified Ethical Hacker           ║
+║   [▓▓▓▓░░░░░░]  40%  ━━  CompTIA Security+                        ║
+║   [▓░░░░░░░░░]  10%  ━━  OSCP — The Long Game                     ║
+║   [▓▓▓░░░░░░░]  30%  ━━  Open Source Contributions                ║
+║   [▓▓▓▓▓▓░░░░]  60%  ━━  SOC Analyst Role                         ║
+║   [▓▓▓▓▓░░░░░]  50%  ━━  MCA / Higher Studies (PGCET 2026)        ║
+║                                                                    ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CEH-Ethical_Hacker-8b00ff?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0d0015"/>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-8b00ff?style=flat-square&logo=comptia&logoColor=white&labelColor=0d0015"/>
+  <img src="https://img.shields.io/badge/OSCP-Offensive_Security-8b00ff?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0d0015"/>
+  <img src="https://img.shields.io/badge/TryHackMe-Active-8b00ff?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0d0015"/>
+  <img src="https://img.shields.io/badge/HackTheBox-Active-8b00ff?style=flat-square&logo=hackthebox&logoColor=white&labelColor=0d0015"/>
+</p>
+
+<br>
+
+---
+
+<!-- ═══════════════ SIGNAL TRAFFIC ═══════════════ -->
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/%E3%80%96%E2%9A%A1%20SIGNAL%20TRAFFIC%20%E2%9A%A1%E3%80%97-1a0030?style=for-the-badge&labelColor=0d0015&color=8b00ff"/>
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Not-muzzyy&theme=github-compact&hide_border=false&bg_color=0d0015&color=bf7fff&line=8b00ff&point=ffffff&area=true&area_color=8b00ff30&border_color=8b00ff"/>
+</p>
+
+<br>
+
+---
+
+<!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/%E3%80%96%F0%9F%8F%86%20ACHIEVEMENTS%20%F0%9F%8F%86%E3%80%97-1a0030?style=for-the-badge&labelColor=0d0015&color=8b00ff"/>
+</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Not-muzzyy&theme=discord&no-frame=false&no-bg=false&margin-w=6&column=7&title_color=bf7fff&border_color=8b00ff"/>
+</p>
+
+<br>
+
+---
+
+<!-- HACKATHON RECORD -->
+
+<h2 align="center">
+  <img src="https://img.shields.io/badge/%E3%80%96%E2%9A%94%20HACKATHON%20RECORD%20%E2%9A%94%E3%80%97-1a0030?style=for-the-badge&labelColor=0d0015&color=8b00ff"/>
+</h2>
+
+<div align="center">
+
+| 〖 EVENT 〗 | 〖 PROJECT 〗 | 〖 STACK 〗 | 〖 STATUS 〗 |
+|:---:|:---:|:---:|:---:|
+| HackArena 2K26 — JCET Hubballi | CampusIQ | Flask · SQLite · Groq | ✦ CLEARED |
+| HackWithBangalore 2.0 | Team CODEX | Python · AI Stack | ✦ CLEARED |
+| The Big Code 2026 — Google/HE | TBD | TBD | ✦ QUALIFIED |
+| Chakravyuha 3.0 — BITM | Pollution Grid | Python · Folium | ✦ CLEARED |
+
+</div>
+
+<br>
+
+---
+
+<!-- CLOSING -->
+
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=4000&pause=2000&color=FF0000&center=true&vCenter=true&width=600&lines=%E2%94%82+CONNECTION+TERMINATED.+SIGNAL+LOST.+%E2%94%82;%E2%94%82+But+the+code+keeps+running...+%E2%94%82" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=13&duration=4000&pause=2000&color=8B00FF&center=true&vCenter=true&width=700&lines=%E3%80%8C+CONNECTION+TERMINATED.+SIGNAL+LOST.+%E3%80%8D;%E3%80%8C+But+the+code+keeps+running...+%E3%80%8D" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔴_Cybersecurity-0d1117?style=flat-square&logo=hackthebox&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/🔴_Machine_Learning-0d1117?style=flat-square&logo=tensorflow&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/🔴_AI_Systems-0d1117?style=flat-square&logo=openai&logoColor=FF0000"/>
-  <img src="https://img.shields.io/badge/🔴_Threat_Hunter-0d1117?style=flat-square&logo=elastic&logoColor=FF0000"/>
+  <img src="https://img.shields.io/badge/『_Cybersecurity_』-0d0015?style=flat-square&logo=hackthebox&logoColor=8b00ff"/>
+  <img src="https://img.shields.io/badge/『_Machine_Learning_』-0d0015?style=flat-square&logo=tensorflow&logoColor=8b00ff"/>
+  <img src="https://img.shields.io/badge/『_AI_Systems_』-0d0015?style=flat-square&logo=openai&logoColor=8b00ff"/>
+  <img src="https://img.shields.io/badge/『_Threat_Hunter_』-0d0015?style=flat-square&logo=elastic&logoColor=8b00ff"/>
 </p>
 
 <p align="center">
-  <code>root@muzzyy:~$ echo "Building defenses from Ballari that protect the internet." 🌐</code>
+  <code>root@muzzyy:~$ echo "『 Building defenses from Ballari that protect the internet. 』 🌐"</code>
 </p>
 
 <br>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,30:4a0000,60:1a0000,100:0d1117&height=130&section=footer&animation=twinkling)](https://github.com/Not-muzzyy)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b00ff,30:5a0099,60:2d0050,100:0d0015&height=130&section=footer&animation=twinkling)](https://github.com/Not-muzzyy)
