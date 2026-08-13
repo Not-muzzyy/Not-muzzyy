@@ -415,6 +415,7 @@
   <code>root@muzzyy:~$ echo "『 Building defenses from Ballari that protect the internet. 』 🌐"</code>
 </p>
 
+![Gym Streak](https://awesome-github-stats.vercel.app/api/card/gym?theme=terminal&data=eyJ0eXBlIjoiZ3ltIiwidGl0bGUiOiJHeW0gU3RyZWFrIiwiY3VycmVudFN0cmVhayI6MTQsImxvbmdlc3RTdHJlYWsiOjQ1LCJ0b3RhbFdvcmtvdXRzIjozMTIsImxhc3RXb3Jrb3V0IjoiMiBob3VycyBhZ28iLCJ3ZWVrbHlHb2FsIjo1LCJ3ZWVrbHlQcm9ncmVzcyI6W3RydWUsdHJ1ZSxmYWxzZSx0cnVlLHRydWUsZmFsc2UsZmFsc2VdfQ%3D%3D)
 <br>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b00ff,30:5a0099,60:2d0050,100:0d0015&height=130&section=footer&animation=twinkling)](https://github.com/Not-muzzyy)
