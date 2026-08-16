@@ -1,11 +1,17 @@
 <!-- MINIMAL YET HEAVY UI PORTFOLIO README -->
-<div align="center">
+<table width="100%" bgcolor="#000000" style="border: 1px solid #333333;">
+  <tr>
+    <td align="center">
+
+<br/>
 
 <!-- HERO BANNER -->
-[![Header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=280&section=header&text=Mohammed%20Muzammil%20C&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%7C%20Cybersecurity%20Researcher&descAlignY=55&descSize=16&descColor=888888&animation=fadeIn)](https://github.com/Not-muzzyy)
+<a href="https://github.com/Not-muzzyy">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=280&section=header&text=Mohammed%20Muzammil%20C&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineer%20%7C%20Cybersecurity%20Researcher&descAlignY=55&descSize=16&descColor=888888&animation=fadeIn" width="100%"/>
+</a>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=%5B+SYSTEM+BOOT+SEQUENCE+INITIATED+%5D;%5B+LOADING+NEURAL+NETWORKS...+%5D;%5B+ENVIRONMENT+READY.+%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=70&lines=%5B+SYSTEM+BOOT+SEQUENCE+INITIATED+%5D;%5B+LOADING+NEURAL+NETWORKS...+%5D;%5B+ENVIRONMENT+READY.+%5D" width="100%" style="max-width: 800px;"/>
 
 <br/>
 
@@ -20,24 +26,21 @@
   <img src="https://komarev.com/ghpvc/?username=Not-muzzyy&style=for-the-badge&color=222222&label=VISITORS&labelColor=000000"/>
 </p>
 
-</div>
-
 <br/>
 <br/>
 
 <!-- SYSTEM TELEMETRY -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=70&text=SYSTEM%20TELEMETRY&fontSize=26&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=70&text=SYSTEM%20TELEMETRY&fontSize=26&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
 </div>
-<br/>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Not-muzzyy&show_icons=true&hide_border=false&bg_color=000000&border_color=333333&title_color=FFFFFF&icon_color=FFFFFF&text_color=888888&ring_color=FFFFFF&rank_icon=percentile" width="100%"/>
+<table align="center" width="100%" bgcolor="#000000" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Not-muzzyy&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=888888&ring_color=FFFFFF&rank_icon=percentile" width="100%"/>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Not-muzzyy&layout=donut&hide_border=false&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=888888&langs_count=6" width="100%"/>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Not-muzzyy&layout=donut&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=888888&langs_count=6" width="100%"/>
     </td>
   </tr>
 </table>
@@ -51,7 +54,7 @@
 
 <!-- CORE ARSENAL & CLEARANCES -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=70&text=CORE%20ARSENAL%20AND%20CLEARANCES&fontSize=26&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=70&text=CORE%20ARSENAL%20AND%20CLEARANCES&fontSize=26&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
 </div>
 <br/>
 
@@ -77,12 +80,11 @@
 
 <!-- AI & SECURITY PROJECTS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=70&text=AI%20AND%20SECURITY%20DEPLOYMENTS&fontSize=26&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=70&text=AI%20AND%20SECURITY%20DEPLOYMENTS&fontSize=26&fontColor=FFFFFF&fontAlignY=55" width="100%"/>
 </div>
-<br/>
 
 <!-- UI CARDS GRID FOR PROJECTS -->
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<table align="center" width="100%" bgcolor="#000000" style="border: none;">
   
   <!-- ROW 1 -->
   <tr style="border: none;">
@@ -153,19 +155,19 @@
 
 <!-- COMPACT GRID FOR ADDITIONAL PROJECTS -->
 <br/>
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+<table align="center" width="100%" bgcolor="#000000" style="border: none;">
   <tr style="border: none;">
-    <td width="33%" align="center" valign="top">
+    <td width="33%" align="center" valign="top" style="border: none;">
       <a href="https://github.com/Not-muzzyy/ATS-Resume">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Not-muzzyy&repo=ATS-Resume&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF&border_color=333333&show_owner=false" width="100%"/>
       </a>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="33%" align="center" valign="top" style="border: none;">
       <a href="https://github.com/Not-muzzyy/virtual-pollution-intelligence-grid">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Not-muzzyy&repo=virtual-pollution-intelligence-grid&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF&border_color=333333&show_owner=false" width="100%"/>
       </a>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="33%" align="center" valign="top" style="border: none;">
       <a href="https://github.com/Not-muzzyy/todolist-ai">
         <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Not-muzzyy&repo=todolist-ai&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=888888&icon_color=FFFFFF&border_color=333333&show_owner=false" width="100%"/>
       </a>
@@ -176,11 +178,17 @@
 <br/>
 <br/>
 
-<p align="center">
+<p align="center" style="color: #FFFFFF;">
   <code>root@muzzyy:~$ ./deploy_ai_models.sh && echo "Systems Online."</code>
 </p>
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=70&text=...&fontSize=26&fontColor=333333" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=70&text=...&fontSize=26&fontColor=333333" width="100%"/>
 </div>
+
+<br/>
+
+    </td>
+  </tr>
+</table>
