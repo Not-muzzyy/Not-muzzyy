@@ -26,17 +26,17 @@
 
 <!-- SYSTEM TELEMETRY -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:111111&height=70&text=%E2%AC%A1%20SYSTEM%20TELEMETRY%20%E2%AC%A1&fontSize=26&fontColor=00E5FF&fontAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:111111&height=70&text=SYSTEM%20TELEMETRY&fontSize=26&fontColor=00E5FF&fontAlignY=55" width="100%"/>
 </div>
 <br/>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Not-muzzyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00E5FF&icon_color=7000FF&text_color=E0E0E0&ring_color=00E5FF&rank_icon=percentile" width="100%"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Not-muzzyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00E5FF&icon_color=7000FF&text_color=E0E0E0&ring_color=00E5FF&rank_icon=percentile" width="100%"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Not-muzzyy&layout=donut&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00E5FF&text_color=E0E0E0&langs_count=6" width="100%"/>
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Not-muzzyy&layout=donut&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00E5FF&text_color=E0E0E0&langs_count=6" width="100%"/>
     </td>
   </tr>
 </table>
@@ -49,7 +49,7 @@
 
 <!-- CORE ARSENAL & CLEARANCES -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:111111&height=70&text=%E2%9A%99%20CORE%20ARSENAL%20%26%20CLEARANCES%20%E2%9A%99&fontSize=26&fontColor=00E5FF&fontAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:111111&height=70&text=CORE%20ARSENAL%20AND%20CLEARANCES&fontSize=26&fontColor=00E5FF&fontAlignY=55" width="100%"/>
 </div>
 <br/>
 
@@ -74,7 +74,7 @@
 
 <!-- AI & SECURITY PROJECTS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:111111&height=70&text=%F0%9F%9B%A1%20AI%20%26%20SECURITY%20DEPLOYMENTS%20%F0%9F%9B%A1&fontSize=26&fontColor=00E5FF&fontAlignY=55" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,100:111111&height=70&text=AI%20AND%20SECURITY%20DEPLOYMENTS&fontSize=26&fontColor=00E5FF&fontAlignY=55" width="100%"/>
 </div>
 <br/>
 
