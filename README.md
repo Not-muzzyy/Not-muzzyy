@@ -1,4 +1,7 @@
 <!-- MINIMAL YET HEAVY UI PORTFOLIO README -->
+<table width="100%" style="border-collapse: collapse; border: 1px solid #333333;">
+<tr><td style="padding: 40px;">
+
 <div align="center">
 
 <!-- HERO BANNER -->
@@ -184,3 +187,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:111111&height=70&text=...&fontSize=26&fontColor=333333" width="100%"/>
 </div>
+
+</td></tr>
+</table>
